@@ -1,6 +1,6 @@
 /*
  * we use binary search on answer , now consider every point as a center of a circle with radius Mid 
- * now find the segment the i'th circle covers , and check if the segments covers all the road 
+ * now find the segment the i'th circle covers , and check if the segments cover all the road 
 */
 #define fast ios_base::sync_with_stdio(0),cin.tie(0),cout.tie(0)
 #include <bits/stdc++.h>
